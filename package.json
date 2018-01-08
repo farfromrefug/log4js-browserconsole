@@ -1,0 +1,25 @@
+{
+  "name": "log4js-browserconsole",
+  "version": "1.0.0",
+  "description": "Log4js appender suited for Chrome console",
+  "main": "lib/appender.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farfromrefug/log4js-browserconsole.git"
+  },
+  "keywords": [
+    "log4js",
+    "protractor"
+  ],
+  "author": "Martin Guillon <martin@akylas.fr>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/farfromrefug/log4js-browserconsole/issues"
+  },
+  "homepage": "https://github.com/farfromrefug/log4js-browserconsole#readme",
+  "dependencies": {
+    "log4js": "^2.4.1"
+  }
+}
